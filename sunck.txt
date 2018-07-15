@@ -1,3 +1,8 @@
 sunck is good man
+<<<<<<< HEAD
 sunck is very nice man
 sunck is human
+=======
+sunck is very nice man 
+xym is a boy
+>>>>>>> xym
